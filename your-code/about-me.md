@@ -1,3 +1,2 @@
-NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Duarte is a former copy/ghost writer, eager to learn data analysis.
+Duarte is a former copy/ghost writer from Lisbon, eager to learn new skills in data analysis.
